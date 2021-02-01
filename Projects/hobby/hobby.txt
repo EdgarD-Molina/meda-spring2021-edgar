@@ -1,0 +1,34 @@
+Project checklist 
+Intro 					[x]
+Hobby enjoy 				[x]
+Instruct how to 			[ ]
+3 or more links to online sources	[ ] [ ] [ ]
+3 examples of self doing hobby 		[ ] [ ] [ ]
+3 generic w/credit related to hobby 	[ ] [ ] [ ]
+3 paragraphs min (4 -6 sentences) 	[ ]
+
+
+--Create HTML file and copy/paste paragraphs using
+the proper tags such as <p> , h1, h2, etc
+
+--Bottom of page make an apendix list that includes links to sources, references, 
+and image credits. 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+--Header about playing guitar as a hobby--
+
+--Image of random guitar player on stage--
+
+Hey, my name is Danny. I've been playing guitar since I was 16 years old. I'm 31 now, so I guess you could say I've taken to this hobby quite well. I used to spend a lot of my time in front of the tv screen playing Zelda or Metroid video games, but as I got older and moved around to different schools I picked up a lot of different friends. A lot of them invested in their own hobbies, but most commonly I kept hearing about the guitar. Being a teenager I, of course, wanted to get in on this trend. When my birthday rolled around I begged and pleaded with my parents, grandparents, and siblings to get me one. Boy, was I surprised. They wound up buying me a bass guitar. What a moment I tell you. But still, I figured if I could master this thing maybe they'll buy me a guitar for christmas! So time went on and lo and behold, i'm now frequently teaching people to play guitar on my spare time.
+
+--Image of me playing guitar with another person--
+
+I love what I do strictly because I've always been blessed with a musical ear, but that doesn't mean you need one to enjoy playing guitar. If you wanna use it as a way to meet people, an avenue to other instruments, actually start a band, maybe use it to meet someone you've had your eye on? I don't know. But that's up to you. 
+
+--Image of people playing on street, perhaps with their significant other--
+
+I love it for all of those reasons. Guitar is one door that opens many opportunities. Most importantly it lets my creativity flow out and alleviates stress or negative thoughts. I find myself often writing some of my best material when I feel uneasy and a lot weighing on my mind. So for me, guitar can be therapy, an avenue for friendship, a chance to make some side money, a chance to just show the world I can hang out too. What it is for you won't be obvious right away, and in knowing that take some time to just understand it an try something new.
+
