@@ -3,21 +3,101 @@
 <head>
     <meta charset="utf-8" >
     <title> HTML Summary on week 3 </title>
+<!--CSS elements can go here-->
+<style> 
+    p {
+        color: blue;
+        font-size: 24px;
+        background-color: orange;
+        font-family: "Arial";
+        font-weight: bold;
+        font-style:italic
+        line-height: 28px;
+        letter-spacing:2px;
+    }
 
+    h1 {
+        color: red;
+    }
+
+    ul li {
+        color:green;
+    }
+
+    #caption {
+    font-size: 20px;
+    }
+    #submitbutton {
+    background-color: silver;
+    }
+
+    #password {
+        background-color: orange;
+    }
+
+    </style>
 </head>
 
 
 <body>
 
     <header>
-
+    Discussing various HTML elements while applying CSS to our design.
     </header>
 
     <main>
-        <article> This is the meat of your page </article>    
+        <article> This is the meat of your page beneath this.</article>    
             <h1> This is a summary of HTML5 thus far </h1>
             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores inventore error molestias blanditiis ullam tempora debitis enim officia repudiandae vitae! Harum repellendus laudantium architecto perferendis? Ea numquam quis ut facilis.</p>
-    </main>
+    
+            <ul>
+                <li>Video games</li>
+                <li>Eat</li>
+            </ul>
+            
+            <ol>
+                <li> Enchiladas</li>
+                <li> breafkfast burritos </li>
+            </ol>
+
+            <dl>
+                <dt> P </dt>
+                <dd> Used for normal text in a webpage layout</dd>
+                <dt> h1 </dt>
+                <dd> Used for headings -Level 1- </dd>
+
+            </dl>
+
+            <img src="imagenamehere.jpg" alt="Description of image that doesn't exist" width="150" height="200" /> <figcaption id="caption"> Image placeholder of missing image </figcaption>
+
+            <table>
+                <thead>
+                    <tr>
+                        <td> This is column 1 </td>
+                        <td> This is column 2 </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td> Data 1 </td>
+                        <td> Data 2 </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <form>
+                    <label for="username"> username </label>
+                    <input id="username" type="Text" />
+                    <label for="password" > password </label>
+                    <input id="password" type="password" />
+                    <input id="submitbutton" type="submit" />
+
+    
+    
+    
+    
+    
+        </main>
 
     <footer>
 
