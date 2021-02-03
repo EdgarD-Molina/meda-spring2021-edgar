@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>CSS Specificity Examples</title>
+
+    <style>
+        #redbox, #bluebox, #greenbox {
+            height: 100px;
+            width: 100px;
+            border-radius: 5px;
+            background-color: cyan;
+        }
+        #redbox {
+            background-color: grey;
+        }
+
+        #redbox {
+            background-color: red;
+        }
+
+        #bluebox {
+            background-color: blue;
+        }
+
+        #greenbox {
+            background-color: green;
+        }
+
+        #redbox {
+            background-color: purple;
+        }
+
+        div {
+            background-color: cyan;
+        }
+
+        body main form #password {}
+
+        body .container .sidebar p {}
+        
+    </style>
+</head>
+
+<body>
+
+    <div id="redbox" class="box"></div>
+    <div id="bluebox" class="box"></div>
+    <div id="greenbox" class="box"></div>
+
+</body>
+
+</html>
