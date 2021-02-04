@@ -1,23 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"/>
-<title> Layout Lesson 1 </title>
+    <meta charset="utf-8"/>
+    <title> Layout Lesson 1 </title>
+    
     <style>
         body {
-            background-color:rgb(245, 238, 201) 
+            background-color:rgb(245, 238, 201)
+            margin: 0;
         }
+
+        div {
+
+        }
+
         #header {
             width:700px;
-            height: 200px;
+            height: 100px;
             background-color: rgb(182, 101, 230);
+            margin: 0 auto;
         }
+
         #main {
             width:700px;
-            height: 400px;
+            /* height: 500px; */
             background-color: coral;
+            margin-top: 0;
+            margin-right: auto;
+            margin-bottom: 0;
+            margin-left: auto;
+            /* margin: 0 auto */
+            overflow:hidden;
             text-align: center;
+            
             }
+
         #main div {
             width: 150px;
             height: 150px;
@@ -26,13 +43,15 @@
             margin-left: 20px;
             margin-right: 20px;
             display:inline-block;
+            vertical-align: text-top;
         }    
         #footer {
             width:700px;
-            height: 250px;
+            height: 200px;
             background-color: rgb(122, 209, 168);
             margin: 0 auto;
         }
+
         h1 {
             /* margin: 0 auto; */
             /* width:350px; */
@@ -50,7 +69,10 @@
 
     <div id="main">
     
-        <div><p>Hello</p> </div>
+        <div>
+            <p>Hello</p> 
+        </div> 
+        <div> </div>
         <div> </div>
         <div> </div>
         <div> </div>

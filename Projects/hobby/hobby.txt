@@ -2,7 +2,7 @@ Project checklist
 Introduce yourself 			[x]
 Why you enjoy hobby 			[x]
 Instruct how to 			[x]
-3 or more links to online sources	[x] [x] [ ]
+3 or more links to online sources	[x] [x] [x]
 ultimate-guitar
 3 examples of self doing hobby 		[x] [x] [x]
 3 generic w/credit related to hobby 	[x] [x] [x]
@@ -27,12 +27,13 @@ Hey, my name is Danny. I've been playing guitar since I was 16 years old. I'm 31
 
 --Image of me playing guitar with another person--
 
+--Header 2 asking why do we do what we do---
 I love what I do strictly because I've always been blessed with a musical ear, but that doesn't mean you need one to enjoy playing guitar. 
 If you wanna use it as a way to meet people, an avenue to other instruments, actually start a band, maybe use it to meet someone you've had your eye on? 
 I don't know. But that's up to you.
 I love it for all of those reasons. Guitar is one door that opens many opportunities. Most importantly it lets my creativity flow out and alleviates stress or negative thoughts.
 Something definitely worth mentioning here too. It has been scientifically proven that playing instruments helps release dopamine. Long story short that's the chemical your body releases when you're happy, laughing, and just having a good time. 
-I find myself often writing some of my best material when I feel uneasy and a lot weighing on my mind. So for me, guitar can be therapy, an avenue for friendship, a chance to make some side money, a chance to just show the world I can hang out too. What it is for you won't be obvious right away, and in knowing that/, take some time to just understand it an try something new.
+I find myself often writing some of my best material when I feel uneasy and a lot weighing on my mind. So for me, guitar can be therapy, an avenue for friendship, a chance to make some side money, a chance to just show the world I can hang out too. What it is for you won't be obvious right away, and in knowing that, take some time to just understand it an try something new.
 
 --Image of people playing on street, perhaps with their significant other--
 
@@ -47,13 +48,18 @@ We will be needing just a few things:
 3) Time
 	This is literally like anything that you will ever do in life. You have to make time every day to play. 
 
-*****---Image of me playing guitar while watching tv----******
+*****---Image of me playing guitar----******
 
 The one thing i recommend most when starting out is simply understanding your instrument and how to use your hands. These two skills will obviously go hand-in-hand. (I couldn't resist.)
 Start out by simply holding it. THe main part of the guitar is the neck. You'll notice the little metal spacers between sections. 
 These are called frets. They each produce a unique note when played.
 At the very top of your guitar you'll see the 6 knobs that both hold your strings in place, and can help you tune your guitar.
 This is called the head, it is home to the tuning keys (the "knobs") 
+
+I highly recommend  this tuner. I've used ones very simliar to this and it will hold you over for at least a year or two as you learn.
+https://www.musiciansfriend.com/accessories/snark-all-instrument-tuner-metronome
+
+
 Again, the guitar neck is your main piece. This is home to your frets and the position markers.
 The fret itself is just each little square between the metal dividers. 
 The position markers are the little dots across the neck. they go over 'odd' numbers on the frets. except for the one with 2 dots. that's the 12th fret. 
@@ -63,12 +69,6 @@ Although I recommend learning to tune by ear by watching various youtube videos
 
 
 <---Youtube link for video on tuning here-------->>
-
-
-It's also best to buy a tuner. Not to mention theres a ton of free apps available on both iOS and Android. 
-
-<-----link to musicians friend for equipment---->
-
 
 Lastly there's your strings. 6 of them (or 4 on bass)
 These are most commonly referred to by 'ascending' order. What that means is we list them off from the lowest note to the highest, brightest note.
@@ -115,5 +115,10 @@ If you feel like you're good enough take a look at this website.
 
 
 It's a popular site used by musicians everywhere to learn songs. Although I won't teach you to read the tabs on the website, you might be smart enough to learn on your own if you followed this lesson and did your practice!
+That wraps up our introduction and part 1 of lessons!
 
 
+Source for images
+https://pixabay.com/photos/man-guitar-playing-playing-guitar-5941332/
+https://pixabay.com/photos/street-performer-busker-musician-691152/
+http://www.start-playing-guitar.com/index.html
