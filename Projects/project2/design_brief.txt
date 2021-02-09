@@ -1,0 +1,29 @@
+General arctic/polar theme, easy readability and easy contrast on the eyes.
+
+Background 
+Pure white
+For easy readability
+
+Header Text
+(Purpleish-navy)
+#684DFF
+
+Body text
+(Deeper blue, almost lilac)
+#4E98D4
+
+Link text
+Pastel Orange
+#F5C44C
+
+Sitemap ( Drawn Out by hand )
+
+Images we will be using
+
+--
+
+Wireframe for each page (?)
+
+Text content for the web pages
+
+Resume as a PDF
