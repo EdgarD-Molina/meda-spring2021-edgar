@@ -20,10 +20,32 @@ Sitemap ( Drawn Out by hand )
 
 Images we will be using
 
+
 --
 
-Wireframe for each page (?)
+Wireframe for each page
+-Main Page, welcoming visitor
+Self image [ ]
+
+-Page 2, Goals, achievements, projects, skills, and training
+Skills [ Word, Excel, outlool, etc ]
+
+Page 3, contact information
+
+Page 4, about me page
 
 Text content for the web pages
+
+Page 1: Introducion to who I am, thanking visitor for looking at portfolio. Briefly discussing what they'll generally find on this webpage etc.
+Brief history as to how I ended up as [trying to be] a coder.
+
+Page 2: Talk about projects, future goals, and skillset on various programs and IRL skills.
+
+Page 3 : Verbatim :
+My email on display.
+You can contact me for any questions about projects i've done, any questions related to projects you have in mind if you feel my skillset would be of use to you.
+Please feel free to also just shoot out an email to exchange ideas or general shared interests.
+
+Page 4: 
 
 Resume as a PDF
