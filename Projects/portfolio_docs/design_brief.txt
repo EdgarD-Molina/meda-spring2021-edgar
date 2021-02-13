@@ -1,0 +1,68 @@
+General arctic/polar theme, easy readability and easy contrast on the eyes.
+
+Background 
+Pure white
+For easy readability
+
+Header Text
+(Purpleish-navy)
+#684DFF
+
+Body text
+(Deeper blue, almost lilac)
+#4E98D4
+
+Link text
+Pastel Orange
+#F5C44C
+
+Sitemap ( Drawn Out by hand )
+
+Images we will be using
+Self image
+
+---------
+
+Wireframe for each page
+-Main Page, welcoming visitor
+Self image [ ]
+
+-Page 2, Goals, achievements, projects, skills, and training
+Skills [ Word, Excel, outlool, etc ]
+
+Page 3, contact information
+
+Page 4, about me page
+
+---------------------------
+
+Text content for the web pages
+
+Page 1: 
+MAIN PAGE
+Welcome to my portfolio page. Thank you for taking the time to visit and look around. I appredicate any time you commit to being here. I am learning at the time of writing so keep an eye here once in a while to see what i've learned!
+
+GOALS AND SKILLS PAGE
+Page 2: Talk about projects like creating my first simple website using HTML only for class. 
+I'm rather proficient at microsoft office, having used it now for almost two decades. 
+I've been using windows mostly since windows ME (2000) and I can dabble in iOS as well. I've used Mac OS since Tiger was launched back in 2005. 
+I've used almost all following updates since then. 
+
+CONTACT PAGE
+Page 3 : Verbatim :
+My email on display.
+You can contact me for any questions about projects i've done, any questions related to projects you have in mind if you feel my skillset would be of use to you.
+Please feel free to also just shoot out an email to exchange ideas or general shared interests.
+
+Page 4: 
+ABOUT ME
+Hey there, my name is Edgar Daniel Molina Gamboa. But I just go by Danny. I'm in my 30's like most folks right now finding my strife. 
+I always thought by now I'd be stuck at some big box retailer or something less exciting. 
+Until one day I just decided I wanted more. I went ahead and followed my dreams of working with computers and the like. 
+I've always loved taking things apart and fixing them. I don't just mean computers either. I was dissasembling computers, toys, televisions, dvd players, bikes, door handles, radios etc.
+If it had a power source in it, I was at it the moment it broke and somebody wanted to throw it away. 
+So I guess you can sat I am definitely interested more in how things function and how to make them functional again. 
+
+That's me in a brief summary. Aside from that, I love video games, learning to cook, and playing music. Standard fare. 
+
+Resume as a PDF
