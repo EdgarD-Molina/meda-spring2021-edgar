@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title> Learning CSS Grids </title>
+
+    <style>
+        #grid-container {
+            display: grid;
+            height: 400px;
+            background-color: powderblue;
+            grid-template-columns: 1fr 1fr 2fr 1fr;
+            grid-template-rows: 1fr 3fr;
+        }
+        
+        /* 
+            #grid-container div {
+            background-color: palevioletred;
+            }
+        */ 
+
+        #child1 {
+            background-color: papayawhip;
+            grid-column-start: 1 ;
+            grid-column-end: 3 ;
+            grid-row-start: 1;
+            grid-row-end: 3;
+        }
+
+        #child2 {
+            background-color:green;
+            grid-column: 4 / 5;
+            grid-row: 2/ 3 ;
+        }
+
+        #child3 {
+            background-color:red;
+            grid-column: 3 / 4;
+            grid-row: 1 / 3
+        }
+
+        #child4 {
+            background-color: blue;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div id="grid-container">
+        <div id="child1">
+            <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium commodi vitae sint, veritatis quo reiciendis atque quae fuga maxime mollitia sapiente facere unde at. Ratione ducimus nam molestiae aperiam error?    
+            </p>
+        </div>
+        <div id="child2"> </div>
+        <div id="child3"> </div>
+        <div id="child4"> </div>
+    </div>    
+    
+
+
+
+
+
+</body>
+
+</html>
