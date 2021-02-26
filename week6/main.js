@@ -286,3 +286,79 @@ for (var i=0; i <10; i++) {}
 // double plus, adds a 1 to the variable.
 // double minus, removes a 1 from the variable.
 // i++ is the same as i = i + 1
+
+// .forEach();
+
+var randomArray = [5, 10, 15, 20, 25] ;
+
+randomArray.forEach(function (arrayValue) {
+    console.log(arrayValue + 50);
+});
+
+
+// functions. Can be chunks of code that are saved and able to be called whenever.
+
+// function myFirstFunction () {}
+
+function myFirstFuncion() {
+    console.log("This is your first function.");
+}
+
+// Paramaters. Fancy name for a Variable that belongs to a function. Arguments. A Name for the value of the parameter.
+// Parameters are written within the definition. Inside the parenthesis.
+
+function addTwoNumbers(firstNumber, secondNumber) {
+    var total = firstNumber + secondNumber;
+    console.log(total);
+}
+
+addTwoNumbers(90, -210);
+
+
+// Returning values from Functions
+
+function makeExciting(sentence) {
+
+    var excitingSentence = sentence + "!!!" ;
+
+    console.log(excitingSentence);
+
+    return excitingSentence;
+}
+
+var savedSentence = makeExciting("Where did you put my keys?");
+
+makeExciting("did you see that bird");
+
+console.log("the value: " + savedSentence);
+
+//Example function, math sumarizer;
+
+function mathSumarizer(num1, num2) {
+    var sum = num1 + num2;
+    var difference = num1 - num2;
+    var differenceReversed = num1 - num2;
+    var quotient = num1 / num2;
+    var product = num1 * num2;
+
+  //  return [sum, difference, differenceReversed, quotient, product];}
+
+var object = {
+    "Sum" : sum,
+    "Difference" : difference,
+    "Difference Reversed" : differenceReversed,
+    "Quotient" : quotient,
+    "Product" : product
+    };
+
+    return object;
+}
+
+var results = mathSumarizer(90, 26);
+
+console.log(results);
+
+var sumSentence = "The sum of 90 and 26 is " + results["Sum"];
+
+
+//console.log(mathSumarizer(90, 15));

@@ -4,6 +4,7 @@
 
 #h1 {
     text-align: center;
+    color: #684DFF;
 }
 
 
@@ -11,12 +12,43 @@ body {
     background-color:rgb(240, 248, 250);
 }
 
+a {
+    color: #F5C44C;
+}
+
+#main {
+    width:600px;
+    border: 15px black;
+    padding: 30px;
+    margin: 20px;
+    background-color: white;
+    margin: auto;
+    color: #4E98D4; 
+}
+
+p {
+    text-align: center;
+}
+
+p.bodytext1 {
+    font-weight: bolder;
+}
+
 #sidemenu {
     height:700px;
     width: 250px;
-    color:white;
+    color: black;
     position: fixed;
     bottom: 0;
     right: 0;
-    border-radius: 2px solid;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
 }
