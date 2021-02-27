@@ -1,3 +1,11 @@
+#logo {
+    position:fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width:50px;
+}
+
 #header {
     text-align: center;
 }
@@ -17,13 +25,22 @@ a {
 }
 
 #main {
-    width:600px;
-    border: 15px black;
-    padding: 30px;
-    margin: 20px;
-    background-color: white;
-    margin: auto;
-    color: #4E98D4; 
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 30em;
+   height: 400px;
+   margin-top: -10em;
+   margin-left: -15em;
+   border: 3px solid cornflowerblue;
+   background-color: white;
+   color: #4E98D4;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
@@ -35,15 +52,10 @@ p.bodytext1 {
 }
 
 #sidemenu {
-    height:700px;
-    width: 250px;
-    color: black;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    border-style: solid;
-    border-color: white;
-    border-width: 3px;
+    float: right;
+    background: rgb(240, 248, 250);
+    width: 20%;
+    height: 280px;
 }
 
 #footer {
@@ -51,4 +63,7 @@ p.bodytext1 {
     bottom: 0;
     width: 100%;
     height: auto;
+    color: #4E98D4;
 }
+
+

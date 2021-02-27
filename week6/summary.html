@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+<script>
+
+    //variables
+
+    //Define and Assign Value.
+    var myFinalVariable = ["Sring is collection of characters", true, 2500];
+    //The value is an array holding the string, boolean, and number date types.
+
+    myFinalVariable = {}; //Empty Objecet, this will replace the array above for lines after 19.
+
+    //Arrays and objects
+
+    var myFinalArray = [1, 2, 3];
+
+    var myLargeArray = [
+        100,
+        200,
+        300,
+        400,
+        500
+    ];
+
+    var myFinalObjects = {"someValue" : 1000};
+
+    var myLargeObject = {
+        "firstValue" : 1000,
+        "secondValue" : 2000,
+        "thirdValue" : 3000
+    };
+
+    //If statements
+
+    if (false) {
+        //This will only run if condition is true.
+    }
+
+    if (false) {
+        //This will only run if condition is false.
+    } else {
+        //This will only run if the condition is false. MUST ALWAYS BE AT THE END OF A STATMENT.
+    }
+
+    if (false) {
+    } else if (false) {
+        //This will only run if the condition in the 'else if' is true. MUST GO BETWEEN THE IF AND THE ELSE SECTION OF AN 'IF STATEMENT'.
+    }
+
+    // "Fully built" If Statement
+
+    if (false) {
+        
+    } else if (false) {
+
+    } else if (false) {
+
+    } else {
+
+    }
+
+    //Loops: While, Do While, For
+
+    var counter = 0;
+
+    while (counter <10) {
+        counter++;
+    }
+
+var counter2 = 0;
+
+    do {
+        counter2++;
+    } while (counter2 <10);
+    
+    for (var counter = 0; counter <10; counter++) {
+        //Do Something
+    }
+    
+//Functions, Parameters, and Arguments
+
+function myFinalFunction(parameter1, parameter2) {
+    console.log(parameter1);
+
+    return parameter2;
+}
+
+var savedReturnedDate = myFinalFunction("argument1", "argument2");
+myFinalFunction("value1", "value2");
+
+myFinalFunction("value1", "value2");
+
+// undefined, null, NaN (not a number)
+
+var variableNoValue;
+
+console.log(variableNoValue);
+
+var emptyVariable = "Credit Card Number";
+
+emptyVariable = null;
+
+console.log(emptyVariable);
+
+console.log(NaN * NaN);
+
+console.log(3 / 0);
+
+console.log(10 * "100");
+
+//Type Coercion
+
+//String to numner
+
+var num1 = 10 +"100";
+var num2 = "10" + 100;
+
+console.log(num1, num2);
+
+//Truthy & Falsey values
+
+/* int forIntegersOnly = 100;
+float forFloatsOnly = 100.00;
+boolean forBooleansOnly = true;
+char forSingleCharacterOnly = "a";
+string forStringsOfText = "Welcome home, dinner is almost ready!"; */
+
+//Truthy & Falsey Values
+
+//Falsey
+null;
+undefined;
+0;
+"";
+
+//Truthy examples
+-1;
+1;
+" ";
+[];
+{};
+
+var test = 0;
+
+if (test) {
+    console.log("this is truth");
+} else {
+    console.log("This is false");
+}
+
+
+var test = "text";
+
+if (test) {
+    console.log("this is truth");
+} else {
+    console.log("This is false");
+}
+
+true == true;
+false == false;
+
+
+
+
+</script>
+</body>
+</html>

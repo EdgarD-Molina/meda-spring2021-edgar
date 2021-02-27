@@ -229,18 +229,24 @@ var personAge;
 
 personAge = 26;
 
+var personWantsToSip = true;
+
 if (personAge >= 21 && personAge <= 25) {
     console.log("You can kick it");
-}
 
-else if (personAge >= 26 && personAge <=30) {
+    /*if (personWantsToSip == true) {
+        console.log("All right, what is your poison?");
+    } */
+} else if (personAge >= 26 && personAge <=30) {
 console.log("All right, thank you, enjoy");
-}
+} 
 
 
 else {
     console.log("Go home kid, it's not your time yet.");
 }
+
+// While Loop, CHECK FIRST if condition is true, if true then run code block.
 
 var loopRun = true;
 while (loopRun) {
