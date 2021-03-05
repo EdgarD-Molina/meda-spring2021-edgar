@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving Shapes</title>
+
+    <style>
+        #firstBox {
+            width: 100px;
+            height: 100px;
+            background-color: salmon;
+            border-radius: 50%;
+        }
+    
+    </style>
+
+    <script src="jquery-3.5.1.min.js"> </script>
+</head>
+<body>
+    
+    <div id="firstBox"> </div>
+
+    <script>
+        $(document).ready(function () {
+
+            var myBox = $("#firstBox");
+
+            $("body").keypress(function () {
+                
+                var key = event.which; 
+                    
+                    //Up Arrow
+                    if (key === 119) {
+
+                        myBox.css("margin-top" , "-=10px");
+
+                        if (currentMarginTop != "0px") {
+                            myBox.css("margin-top" , "-20px");
+                        }
+
+                        console.log("move up");
+
+                    //Left Arrow    
+                    } else if (key === 97) {
+
+                        myBox.css("margin-left" , "-=20px");
+
+                        console.log("move left");
+
+                    //Down Arrow
+                    } else if (key === 115) {
+
+                        var currentMarginTop = myBox.css("margin-top" , "+=10px");
+
+                        // currentMarginTop = parseInt(currentMarginTop);
+
+                        // var newMargin = (currentMarginTop + 10) +"px";
+
+                        // $("#firstBox").css("margin-top" , newMargin);
+
+                        console.log("move down");
+
+                    //Right Arrow
+                    } else if (key === 100) {;
+
+                        myBox.css("margin-left" , "+=20px");
+
+                    console.log("move right");
+
+                    }
+            })
+
+        });
+
+    </script>
+    
+</body>
+</html>
